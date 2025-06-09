@@ -1,0 +1,34 @@
+body {
+  background: #0d0303;
+}
+h1 {
+  color: #ff9028;
+  text-align: left;
+  margin-left: 290px;
+}
+h2 {
+  margin: 0 auto;
+  color: white;
+  color: whitesmoke;
+}
+
+p {
+  text-align: center;
+  width: 70%;
+
+  color: white;
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: darkblue;
+}
